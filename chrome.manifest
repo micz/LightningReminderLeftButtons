@@ -1,0 +1,7 @@
+content   ltngremleftbtn                 chrome/content/
+locale    ltngremleftbtn   en-US         chrome/locale/en-US/
+locale    ltngremleftbtn   it            chrome/locale/it/
+
+skin ltngremleftbtn default chrome/skin/
+
+overlay chrome://calendar/content/calendar-alarm-dialog.xul chrome://ltngremleftbtn/content/mzrlb-overlay.xul
