@@ -4,14 +4,15 @@
 <!DOCTYPE overlay SYSTEM "chrome://ltngremleftbtn/locale/settings.dtd">
 <prefwindow id="LightningReminderLeftButtons_Settings"
   xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"
-  title="&LightningReminderLeftButtons.SettingsTitle;">
+  title="&LightningReminderLeftButtons.SettingsTitle;"
+  onload="miczLightningReminderLeftButtonsPref.onLoad();">
   <prefpane id="LightningReminderLeftButtons_PrefPane">
     <preferences>
       <preference id="LightningReminderLeftButtons.SwapButtons"
         name="extensions.LightningReminderLeftButtons.SwapButtons"
         type="bool"/>
     </preferences>
-    <tabbox>
+    <tabbox id="rlb_tabbox">
       <tabs>
         <tab label="&LightningReminderLeftButtons.TabSettings.label;"/>
         <tab label="&LightningReminderLeftButtons.TabInfo.label;"/>
@@ -32,4 +33,5 @@
       </tabpanels>
     </tabbox>
   </prefpane>
+  <script type="application/x-javascript" src="chrome://ltngremleftbtn/content/mzrlb-settings.js" />
 </prefwindow>
