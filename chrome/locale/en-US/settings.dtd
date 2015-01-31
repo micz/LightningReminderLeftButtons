@@ -4,4 +4,4 @@
 <!ENTITY LightningReminderLeftButtons.TabInfo.label "Info">
 <!ENTITY LightningReminderLeftButtons.InfoMainDesc "This addon is free and developed in my spare time. If you're using it in your every day routine, feel free to support it with a little donation clicking on the link below. Thanks!!">
 <!ENTITY LightningReminderLeftButtons.DonateLink "Make a donation!">
-<!ENTITY LightningReminderLeftButtons.SwapButtons.label "Keep the button to the right, but swap them, putting Dismiss all before.">
+<!ENTITY LightningReminderLeftButtons.SwapButtons.label "Keep the button to the right, but swap them, putting &quot;Dismiss all&quot; before.">
