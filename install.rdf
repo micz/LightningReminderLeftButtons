@@ -4,7 +4,7 @@
   <Description about="urn:mozilla:install-manifest">
     <em:id>ltngremleftbtn@micz.it</em:id>
     <em:type>2</em:type>
-    <em:version>2.0alpha</em:version>
+    <em:version>2.0alpha1</em:version>
     <em:name>Lightning Reminder Left Buttons</em:name>
     <em:description>Tired to mistakenly press that "Dismiss All" button? Move the Lightning Reminder "Snooze all for" and "Dismiss All" buttons to the left!</em:description>
     <em:iconURL>chrome://ltngremleftbtn/skin/mzrlb-icon.png</em:iconURL>
