@@ -11,6 +11,7 @@
     <em:icon64URL>chrome://ltngremleftbtn/skin/mzrlb-icon64.png</em:icon64URL>
     <em:creator>Mic (m@micz.it)</em:creator>
     <em:contributor></em:contributor>
+    <em:optionsURL>chrome://ltngremleftbtn/content/mzrlb-settings.xul</em:optionsURL>
     <em:localized>
       <Description>
         <em:locale>it</em:locale>
