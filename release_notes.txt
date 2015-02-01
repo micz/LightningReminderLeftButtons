@@ -1,9 +1,12 @@
 -= Lightning Reminender Left Buttons Thunderbird Addon Release Notes =-
 
 ==========
+Version 2.1 - ??/??/2015
+-
+==========
 Version 2.0 - 01/02/2015
 - Added chinese translation (zh-CN), thanks yfdyh000 (from BabelZilla.org).
-- Added an option to keep the button on the right, but swap them.
+- Added an option to keep the buttons on the right, but swap them.
 ==========
 Version 1.0 - 30/01/2015
 - First release.
