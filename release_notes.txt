@@ -3,7 +3,8 @@
 ==========
 Version 2.1 - ??/??/2015
 - Added german translation (de), thanks Mauri (from BabelZilla.org).
-- 
+- Added french translation (fr), thanks tojazmin (from BabelZilla.org).
+-
 ==========
 Version 2.0 - 01/02/2015
 - Added chinese translation (zh-CN), thanks yfdyh000 (from BabelZilla.org).
