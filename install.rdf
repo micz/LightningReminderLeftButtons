@@ -37,6 +37,14 @@
         <em:contributor></em:contributor>
         <em:translator>yfdyh000</em:translator>
       </Description>
+      <Description>
+        <em:locale>fr</em:locale>
+        <em:name>Lightning Reminder Left Buttons</em:name>
+        <em:description>Fatigué de cliquer par erreur sur le bouton "Tout désactiver" ? Déplacez les boutons "Report de toutes les alarmes" et "Tout désactiver" de Lightning reminder !</em:description>
+        <em:creator>Mic (m@micz.it)</em:creator>
+        <em:contributor></em:contributor>
+        <em:translator>tojazmin</em:translator>
+      </Description>
     </em:localized>
     <em:targetApplication>
       <Description>
