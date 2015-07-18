@@ -1,6 +1,9 @@
 -= Lightning Reminender Left Buttons Thunderbird Addon Release Notes =-
 
 ==========
+Version 2.1 - ??/??/2015
+-
+==========
 Version 2.0.1 - 18/07/2015
 - Added german translation (de), thanks Mauri (from BabelZilla.org).
 - Added french translation (fr), thanks tojazmin (from BabelZilla.org).
