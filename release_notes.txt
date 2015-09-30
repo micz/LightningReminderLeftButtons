@@ -1,4 +1,4 @@
--= Lightning Reminender Left Buttons Thunderbird Addon Release Notes =-
+-= Lightning Reminder Left Buttons Thunderbird Addon Release Notes =-
 
 ==========
 Version 2.1 - ??/??/2015
